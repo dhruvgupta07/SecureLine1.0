@@ -348,3 +348,52 @@ java.util.concurrent.TimeoutException
 2025.07.19 16:02:24 INFO  [error] Total time: 8 s, completed 19 Jul 2025, 4:02:24 pm
 2025.07.19 16:02:24 INFO  time: ran 'sbt bloopInstall' in 16s
 2025.07.19 16:02:24 ERROR sbt command failed: /opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall
+2025.07.19 16:04:15 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 18:19:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 18:19:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 18:19:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 18:36:22 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 18:36:22 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 18:36:22 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 19, 2025 6:36:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 357
+Jul 19, 2025 6:36:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2025.07.19 20:34:27 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:25 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:25 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:25 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:26 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:39 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:39 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:39 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:39 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:46 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:46 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:51 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:51 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:35:51 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:35:51 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:36:00 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:36:00 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:36:00 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:36:00 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:36:04 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:36:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:36:04 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:36:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:55:18 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:55:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:56:22 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:56:22 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/Main.scala
+2025.07.19 20:56:22 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:56:22 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.19 20:57:01 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:57:01 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/Main.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:57:01 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/Main.scala
+2025.07.19 20:57:01 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.19 20:57:01 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+Jul 19, 2025 9:01:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
