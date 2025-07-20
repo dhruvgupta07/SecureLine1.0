@@ -2,7 +2,7 @@ package com.secureline.repo
 
 import scala.collection.concurrent.TrieMap
 
-import com.secureline.model.user
+import com.secureline.model.User
 
 object UserRepo {
   // Key: User ID; Value: User

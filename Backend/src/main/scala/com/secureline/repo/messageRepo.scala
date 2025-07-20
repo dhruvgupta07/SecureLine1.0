@@ -1,8 +1,7 @@
 package com.secureline.repo
 
-import scala.collection.concurrent.TrieMap
-
-import com.secureline.model.message
+import scala.collection.mutable
+import com.secureline.model.Message // <-- Correct import
 
 object MessageRepo {
   // Key: Channel code; Value: List of Messages in that Channel

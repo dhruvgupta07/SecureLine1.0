@@ -925,3 +925,872 @@ WARNING: Unmatched cancel notification for request id 133
 2025.07.19 22:11:50 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.07.19 22:11:50 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
 2025.07.19 22:11:50 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 00:03:03 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 00:03:03 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 00:03:03 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 00:18:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 00:18:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Jul 20, 2025 12:18:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 992
+Jul 20, 2025 12:18:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 993
+2025.07.20 00:18:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 12:40:23 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 12:40:23 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala
+2025.07.20 12:40:23 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 12:40:23 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala
+2025.07.20 12:40:23 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 12:40:23 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 12:40:23 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala
+2025.07.20 13:12:42 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:12:42 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:12:43 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:12:45 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala
+2025.07.20 13:12:45 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:10 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:10 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala
+2025.07.20 13:13:10 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:10 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala
+2025.07.20 13:13:10 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:10 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:10 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala
+2025.07.20 13:13:13 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:13 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala
+2025.07.20 13:13:13 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:16 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala
+2025.07.20 13:13:16 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:16 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala
+2025.07.20 13:13:27 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:27 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:13:44 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala
+2025.07.20 13:13:44 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/registerUserResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:28 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala
+2025.07.20 13:14:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:28 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala
+2025.07.20 13:14:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:28 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala
+2025.07.20 13:14:29 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:30 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:30 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:14:38 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala
+2025.07.20 13:14:38 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:04 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala
+2025.07.20 13:15:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:04 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala
+2025.07.20 13:15:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:04 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala
+2025.07.20 13:15:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:08 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala
+2025.07.20 13:15:08 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/createChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:26 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala
+2025.07.20 13:15:26 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:26 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:26 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala
+2025.07.20 13:15:26 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:26 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:26 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala
+2025.07.20 13:15:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:28 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:30 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala
+2025.07.20 13:15:30 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/jooinChannelRequest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:52 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:52 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala
+2025.07.20 13:15:52 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:52 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala
+2025.07.20 13:15:52 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:52 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:52 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala
+2025.07.20 13:15:55 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:55 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:15:55 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:16:02 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala
+2025.07.20 13:16:02 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/models/api/joinChannelResponse.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:21 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:21 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala
+2025.07.20 13:20:21 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:21 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala
+2025.07.20 13:20:21 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:21 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:21 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala
+2025.07.20 13:20:24 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:24 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:24 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:30 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:30 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:31 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala
+2025.07.20 13:20:31 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:32 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:20:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:21:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 13:21:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:35 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:54:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:35 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:54:36 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:35 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:54:55 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:55 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:57 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:57 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:57 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:58 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:58 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:58 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:54:58 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:00 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:01 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:00 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:01 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt]
+2025.07.20 14:55:01 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_empty-definition_14-55-01-323.md")
+2025.07.20 14:55:00 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:01 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:02 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:01 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:02 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:02 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:55:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:09 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:09 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:09 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:09 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:09 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:55:12 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:34 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:35 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:55:36 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:36 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:36 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:36 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:36 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:55:44 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:55:46 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:36 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:38 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:38 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:38 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:38 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:56:39 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:40 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:40 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:40 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:56:40 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:56:40 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 14:56:40 WARN  Could not find semantic tokens for: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:56:43 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.07.20 14:56:44 INFO  [info] welcome to sbt 1.11.3 (Oracle Corporation Java 22.0.2)
+2025.07.20 14:56:44 INFO  [info] loading settings for project backend-build-build from metals.sbt...
+2025.07.20 14:56:44 INFO  [info] loading project definition from /Users/dhruvgupta/Desktop/SecureLine1.0/backend/project/project
+2025.07.20 14:56:45 INFO  [info] loading settings for project backend-build from metals.sbt...
+2025.07.20 14:56:45 INFO  [info] loading project definition from /Users/dhruvgupta/Desktop/SecureLine1.0/backend/project
+2025.07.20 14:56:45 INFO  [success] Generated .bloop/backend-build.json
+2025.07.20 14:56:45 INFO  [success] Total time: 1 s, completed 20 Jul 2025, 2:56:46 pm
+2025.07.20 14:56:47 INFO  [info] loading settings for project backend from build.sbt...
+2025.07.20 14:56:47 INFO  [info] set current project to hello-world (in build file:/Users/dhruvgupta/Desktop/SecureLine1.0/backend/)
+2025.07.20 14:56:49 INFO  [success] Generated .bloop/backend-test.json
+2025.07.20 14:56:49 INFO  [success] Generated .bloop/backend.json
+2025.07.20 14:56:49 INFO  [success] Total time: 2 s, completed 20 Jul 2025, 2:56:49 pm
+2025.07.20 14:56:49 INFO  time: ran 'sbt bloopInstall' in 6.39s
+2025.07.20 14:56:49 INFO  Attempting to connect to the build server...
+2025.07.20 14:56:49 INFO  Found a Bloop server running
+2025.07.20 14:56:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/dhruvgupta/Desktop/SecureLine1.0/.metals/bsp.trace.json or /Users/dhruvgupta/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.20 14:56:52 INFO  time: Connected to build server in 2.71s
+2025.07.20 14:56:52 INFO  Connected to Build server: Bloop v2.0.10
+2025.07.20 14:56:52 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.07.20 14:56:57 INFO  time: indexed workspace in 4.47s
+2025.07.20 14:56:57 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:56:57 INFO  compiling backend (11 scala sources)
+2025.07.20 14:56:57 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:56:57 INFO  time: compiled backend in 0.96s
+2025.07.20 14:56:58 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:56:58 INFO  time: code lens generation in 1.17s
+2025.07.20 14:57:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:05 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:06 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:06 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:06 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:06 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:06 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:07 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:12 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:57:12 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:14 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.07.20 14:57:15 INFO  [info] welcome to sbt 1.11.3 (Oracle Corporation Java 22.0.2)
+2025.07.20 14:57:15 INFO  [info] loading settings for project backend-build-build from metals.sbt...
+2025.07.20 14:57:15 INFO  [info] loading project definition from /Users/dhruvgupta/Desktop/SecureLine1.0/backend/project/project
+2025.07.20 14:57:16 INFO  [info] loading settings for project backend-build from metals.sbt...
+2025.07.20 14:57:16 INFO  [info] loading project definition from /Users/dhruvgupta/Desktop/SecureLine1.0/backend/project
+2025.07.20 14:57:16 INFO  [success] Generated .bloop/backend-build.json
+2025.07.20 14:57:16 INFO  [success] Total time: 1 s, completed 20 Jul 2025, 2:57:17 pm
+2025.07.20 14:57:18 INFO  [info] loading settings for project backend from build.sbt...
+2025.07.20 14:57:18 INFO  [info] set current project to hello-world (in build file:/Users/dhruvgupta/Desktop/SecureLine1.0/backend/)
+2025.07.20 14:57:18 INFO  [success] Generated .bloop/backend.json
+2025.07.20 14:57:18 INFO  [success] Generated .bloop/backend-test.json
+2025.07.20 14:57:18 INFO  [success] Total time: 0 s, completed 20 Jul 2025, 2:57:18 pm
+2025.07.20 14:57:18 INFO  time: ran 'sbt bloopInstall' in 4.25s
+2025.07.20 14:57:18 INFO  Disconnecting from Bloop session...
+2025.07.20 14:57:18 INFO  Shut down connection with build server.
+2025.07.20 14:57:18 INFO  Attempting to connect to the build server...
+2025.07.20 14:57:18 INFO  Found a Bloop server running
+2025.07.20 14:57:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/dhruvgupta/Desktop/SecureLine1.0/.metals/bsp.trace.json or /Users/dhruvgupta/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.20 14:57:22 INFO  time: Connected to build server in 3.73s
+2025.07.20 14:57:22 INFO  Connected to Build server: Bloop v2.0.10
+2025.07.20 14:57:23 INFO  time: indexed workspace in 1.27s
+2025.07.20 14:57:23 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 14:57:23 INFO  compiling backend (11 scala sources)
+2025.07.20 14:57:23 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:57:25 INFO  time: compiled backend in 1.36s
+2025.07.20 14:57:25 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:58:32 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 14:58:51 INFO  compiling backend (11 scala sources)
+2025.07.20 14:58:51 INFO  time: compiled backend in 0.35s
+2025.07.20 15:00:46 INFO  compiling backend (11 scala sources)
+2025.07.20 15:00:46 INFO  time: compiled backend in 0.22s
+2025.07.20 15:01:16 INFO  compiling backend (12 scala sources)
+2025.07.20 15:01:16 INFO  time: compiled backend in 0.22s
+2025.07.20 15:01:41 INFO  compiling backend (12 scala sources)
+2025.07.20 15:01:41 INFO  time: compiled backend in 0.2s
+2025.07.20 15:03:20 INFO  compiling backend (12 scala sources)
+2025.07.20 15:03:20 INFO  time: compiled backend in 0.2s
+2025.07.20 15:04:18 INFO  compiling backend (12 scala sources)
+2025.07.20 15:04:18 INFO  time: compiled backend in 0.18s
+2025.07.20 15:06:52 INFO  compiling backend (12 scala sources)
+2025.07.20 15:06:52 INFO  time: compiled backend in 0.17s
+2025.07.20 15:07:35 INFO  compiling backend (12 scala sources)
+2025.07.20 15:07:35 INFO  time: compiled backend in 0.18s
+2025.07.20 15:07:56 INFO  compiling backend (12 scala sources)
+2025.07.20 15:07:56 INFO  time: compiled backend in 0.19s
+2025.07.20 15:07:56 INFO  compiling backend (12 scala sources)
+2025.07.20 15:07:56 INFO  time: compiled backend in 0.14s
+2025.07.20 15:09:30 INFO  Shutting down server
+2025.07.20 15:09:30 INFO  shutting down Metals
+2025.07.20 15:09:30 INFO  Shut down connection with build server.
+2025.07.20 15:09:30 INFO  Exiting server
+2025.07.20 15:09:51 INFO  Started: Metals version 1.6.0 in folders '/Users/dhruvgupta/Desktop/SecureLine1.0' for client Visual Studio Code 1.102.1.
+2025.07.20 15:09:52 INFO  Attempting to connect to the build server...
+2025.07.20 15:09:52 INFO  Found a Bloop server running
+2025.07.20 15:09:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/dhruvgupta/Desktop/SecureLine1.0/.metals/bsp.trace.json or /Users/dhruvgupta/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.20 15:09:53 INFO  time: Connected to build server in 0.22s
+2025.07.20 15:09:53 INFO  Connected to Build server: Bloop v2.0.10
+Jul 20, 2025 3:09:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jul 20, 2025 3:09:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Jul 20, 2025 3:09:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2025.07.20 15:09:55 INFO  time: indexed workspace in 2.39s
+2025.07.20 15:09:55 INFO  compiling backend (12 scala sources)
+2025.07.20 15:09:55 INFO  time: compiled backend in 0.45s
+2025.07.20 15:11:47 INFO  compiling backend (12 scala sources)
+2025.07.20 15:11:47 INFO  time: compiled backend in 0.21s
+Jul 20, 2025 3:12:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 131
+2025.07.20 15:14:27 INFO  compiling backend (13 scala sources)
+2025.07.20 15:14:27 INFO  time: compiled backend in 0.21s
+Jul 20, 2025 3:14:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 201
+2025.07.20 15:15:13 INFO  compiling backend (13 scala sources)
+2025.07.20 15:15:13 INFO  time: compiled backend in 0.21s
+2025.07.20 15:18:29 INFO  compiling backend (13 scala sources)
+2025.07.20 15:18:29 INFO  time: compiled backend in 0.2s
+2025.07.20 15:18:30 INFO  compiling backend (13 scala sources)
+2025.07.20 15:18:30 INFO  time: compiled backend in 0.18s
+Jul 20, 2025 3:19:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:52 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:52 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: This(object ChannelRepo)
+       tree position: line 12 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: com.secureline.repo.ChannelRepo.type
+              symbol: object ChannelRepo in package repo
+   symbol definition: class ChannelRepo extends AnyRef (a ModuleClassSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     9 
+    10 object ChannelRepo {
+    11   // Key: Channel code; Value: C_CURSOR_hannel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code) (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-52-296.md")
+Jul 20, 2025 3:19:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:52 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:52 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(channel)
+       tree position: line 16 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error> in class <error>
+   symbol definition: val <error>: <error> (a TermSymbol)
+      symbol package: <none>
+       symbol owners: value <error> -> class <error>
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(chan_CURSOR_nel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq
+    18 }
+    19  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-52-468.md")
+Jul 20, 2025 3:19:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:52 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:52 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(code)
+       tree position: line 15 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value code
+   symbol definition: code: <error> (a TermSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: value code -> method get -> object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String_CURSOR_): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq
+    18 } (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-52-603.md")
+Jul 20, 2025 3:19:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:52 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:52 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(channel)
+       tree position: line 14 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error> in class <error>
+   symbol definition: val <error>: <error> (a TermSymbol)
+      symbol package: <none>
+       symbol owners: value <error> -> class <error>
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    11   // Key: Channel code; Value: Channel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Uni_CURSOR_t = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-52-731.md")
+Jul 20, 2025 3:19:52 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:52 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:52 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(_CURSOR_)
+       tree position: line 13 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error: <none>>
+   symbol definition: val <error: <none>>: <error> (a TermSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: value <error: <none>> -> value <local ChannelRepo> -> object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    10 object ChannelRepo {
+    11   // Key: Channel code; Value: Channel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 _CURSOR_
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel) (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-52-844.md")
+Jul 20, 2025 3:19:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:52 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:52 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: This(object ChannelRepo)
+       tree position: line 12 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: com.secureline.repo.ChannelRepo.type
+              symbol: object ChannelRepo in package repo
+   symbol definition: class ChannelRepo extends AnyRef (a ModuleClassSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     9 
+    10 object ChannelRepo {
+    11   // Key: Channel code; Value: C_CURSOR_hannel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code) (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-53-221.md")
+Jul 20, 2025 3:19:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:53 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:53 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(channel)
+       tree position: line 16 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error> in class <error>
+   symbol definition: val <error>: <error> (a TermSymbol)
+      symbol package: <none>
+       symbol owners: value <error> -> class <error>
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(chan_CURSOR_nel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq
+    18 }
+    19  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-53-342.md")
+Jul 20, 2025 3:19:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:53 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:53 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(code)
+       tree position: line 15 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value code
+   symbol definition: code: <error> (a TermSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: value code -> method get -> object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String_CURSOR_): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq
+    18 } (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-53-483.md")
+Jul 20, 2025 3:19:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:53 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:53 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(channel)
+       tree position: line 14 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error> in class <error>
+   symbol definition: val <error>: <error> (a TermSymbol)
+      symbol package: <none>
+       symbol owners: value <error> -> class <error>
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    11   // Key: Channel code; Value: Channel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Uni_CURSOR_t = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-53-597.md")
+Jul 20, 2025 3:19:53 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:53 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:53 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(_CURSOR_)
+       tree position: line 13 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error: <none>>
+   symbol definition: val <error: <none>>: <error> (a TermSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: value <error: <none>> -> value <local ChannelRepo> -> object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    10 object ChannelRepo {
+    11   // Key: Channel code; Value: Channel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 _CURSOR_
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel) (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-53-713.md")
+Jul 20, 2025 3:19:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:55 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:55 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: This(object ChannelRepo)
+       tree position: line 12 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: com.secureline.repo.ChannelRepo.type
+              symbol: object ChannelRepo in package repo
+   symbol definition: class ChannelRepo extends AnyRef (a ModuleClassSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+     9 
+    10 object ChannelRepo {
+    11   // Key: Channel code; Value: C_CURSOR_hannel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code) (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-55-354.md")
+Jul 20, 2025 3:19:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:55 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:55 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(channel)
+       tree position: line 16 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error> in class <error>
+   symbol definition: val <error>: <error> (a TermSymbol)
+      symbol package: <none>
+       symbol owners: value <error> -> class <error>
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(chan_CURSOR_nel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq
+    18 }
+    19  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-55-456.md")
+Jul 20, 2025 3:19:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:55 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:55 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(code)
+       tree position: line 15 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value code
+   symbol definition: code: <error> (a TermSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: value code -> method get -> object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String_CURSOR_): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq
+    18 } (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-55-567.md")
+Jul 20, 2025 3:19:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:55 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:55 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(channel)
+       tree position: line 14 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error> in class <error>
+   symbol definition: val <error>: <error> (a TermSymbol)
+      symbol package: <none>
+       symbol owners: value <error> -> class <error>
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    11   // Key: Channel code; Value: Channel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 
+    14   def add(Channel: channel): Uni_CURSOR_t = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel)
+    17   def all(): Seq[channel] = channels.values.toSeq (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-55-676.md")
+Jul 20, 2025 3:19:55 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.07.20 15:19:55 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:19:55 INFO  scala.reflect.internal.FatalError: 
+  ThisType(method add) for sym which is not a class
+     while compiling: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+        during phase: globalPhase=<no phase>, enteringPhase=parser
+     library version: version 2.13.16
+    compiler version: version 2.13.16
+  reconstructed args: -classpath /Users/dhruvgupta/Desktop/SecureLine1.0/backend/.bloop/backend/bloop-bsp-clients-classes/classes-Metals-Nb_ipVLLTD-6ADNNELLcVA==:/Users/dhruvgupta/Library/Caches/bloop/semanticdb/com.sourcegraph.semanticdb-javac.0.10.4/semanticdb-javac-0.10.4.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.13/1.1.2/scala-parser-combinators_2.13-1.1.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http_2.13/10.2.10/akka-http_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-stream_2.13/2.6.21/akka-stream_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/de/heikoseeberger/akka-http-circe_2.13/1.39.2/akka-http-circe_2.13-1.39.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-generic_2.13/0.14.3/circe-generic_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-http-core_2.13/10.2.10/akka-http-core_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.13/2.6.21/akka-actor_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-protobuf-v3_2.13/2.6.21/akka-protobuf-v3_2.13-2.6.21.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/ssl-config-core_2.13/0.4.3/ssl-config-core_2.13-0.4.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-core_2.13/0.14.3/circe-core_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-parser_2.13/0.14.1/circe-parser_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/chuusai/shapeless_2.13/2.3.10/shapeless_2.13-2.3.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/akka/akka-parsing_2.13/10.2.10/akka-parsing_2.13-10.2.10.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.13/1.0.0/scala-java8-compat_2.13-1.0.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-numbers_2.13/0.14.3/circe-numbers_2.13-0.14.3.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_2.13/2.8.0/cats-core_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/circe/circe-jawn_2.13/0.14.1/circe-jawn_2.13-0.14.1.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_2.13/2.8.0/cats-kernel_2.13-2.8.0.jar:/Users/dhruvgupta/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/typelevel/jawn-parser_2.13/1.1.2/jawn-parser_2.13-1.1.2.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(_CURSOR_)
+       tree position: line 13 of file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala
+            tree tpe: <error>
+              symbol: value <error: <none>>
+   symbol definition: val <error: <none>>: <error> (a TermSymbol)
+      symbol package: com.secureline.repo
+       symbol owners: value <error: <none>> -> value <local ChannelRepo> -> object ChannelRepo
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    10 object ChannelRepo {
+    11   // Key: Channel code; Value: Channel
+    12   val channels: TrieMap[String, channel] = TrieMap.empty
+    13 _CURSOR_
+    14   def add(Channel: channel): Unit = channels.put(channel.code, channel)
+    15   def get(code: String): Option[channel] = channels.get(code)
+    16   def update(channel: channel): Unit = channels.put(channel.code, channel) (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_compiler-error_(backend)_15-19-55-788.md")
+2025.07.20 15:20:02 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:20:02 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_empty-definition_(backend)_15-20-02-213.md")
+2025.07.20 15:20:03 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/repo/channelRepo.scala]
+2025.07.20 15:20:03 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_empty-definition_(backend)_15-20-03-942.md")
+2025.07.20 15:22:41 INFO  compiling backend (13 scala sources)
+2025.07.20 15:22:41 INFO  time: compiled backend in 0.21s
+2025.07.20 15:23:56 INFO  compiling backend (13 scala sources)
+2025.07.20 15:23:56 INFO  time: compiled backend in 0.21s
+Jul 20, 2025 3:25:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://d478495e-1800-451c-8bbc-fbd4917e6dd7/response_599e1131-9315-43e8-9f8e-ae6e87cf33f3/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Fmodel%2Fmessage.Scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Fmodel%2Fmessage.Scala%22%2C%22path%22%3A%22%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Fmodel%2Fmessage.Scala%22%2C%22scheme%22%3A%22file%22%7D%2C%22range%22%3A%7B%22startLineNumber%22%3A1%2C%22startColumn%22%3A1%2C%22endLineNumber%22%3A17%2C%22endColumn%22%3A1%7D%7D%2C%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Frepo%2FmessageRepo.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Frepo%2FmessageRepo.scala%22%2C%22path%22%3A%22%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Frepo%2FmessageRepo.scala%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2025.07.20 15:27:54 INFO  compiling backend (14 scala sources)
+2025.07.20 15:27:54 INFO  time: compiled backend in 0.23s
+2025.07.20 15:29:03 INFO  compiling backend (14 scala sources)
+2025.07.20 15:29:03 INFO  time: compiled backend in 0.18s
+2025.07.20 15:29:26 INFO  compiling backend (14 scala sources)
+2025.07.20 15:29:26 INFO  time: compiled backend in 0.17s
+2025.07.20 15:31:22 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala]
+2025.07.20 15:31:22 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_empty-definition_(backend)_15-31-22-371.md")
+2025.07.20 15:33:07 INFO  compiling backend (14 scala sources)
+2025.07.20 15:33:07 INFO  time: compiled backend in 0.21s
+Jul 20, 2025 3:34:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1445
+2025.07.20 15:36:40 INFO  compiling backend (14 scala sources)
+2025.07.20 15:36:40 INFO  time: compiled backend in 0.2s
+Jul 20, 2025 3:41:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "vscode-chat-code-block://d478495e-1800-451c-8bbc-fbd4917e6dd7/response_2dc1d0c1-a2df-4801-b3e9-6bef9c38a2fa/0#%7B%22references%22%3A%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Froutes%2FuserRoutes.scala%22%2C%22external%22%3A%22file%3A%2F%2F%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Froutes%2FuserRoutes.scala%22%2C%22path%22%3A%22%2FUsers%2Fdhruvgupta%2FDesktop%2FSecureLine1.0%2Fbackend%2Fsrc%2Fmain%2Fscala%2Fcom%2Fsecureline%2Froutes%2FuserRoutes.scala%22%2C%22scheme%22%3A%22file%22%7D%7D%5D%7D"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "vscode-chat-code-block" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jul 20, 2025 3:41:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1524
+2025.07.20 15:41:46 INFO  compiling backend (14 scala sources)
+2025.07.20 15:41:46 INFO  time: compiled backend in 0.18s
+2025.07.20 15:42:48 INFO  Created report: Optional[file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/userRoutes.scala]
+2025.07.20 15:42:48 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/dhruvgupta/Desktop/SecureLine1.0/.metals/.reports/metals-full/2025-07-20/r_empty-definition_(backend)_15-42-48-740.md")
+2025.07.20 15:43:17 INFO  compiling backend (14 scala sources)
+2025.07.20 15:43:17 INFO  time: compiled backend in 0.22s
+2025.07.20 15:44:19 INFO  compiling backend (15 scala sources)
+2025.07.20 15:44:19 INFO  time: compiled backend in 0.26s
+2025.07.20 15:46:16 INFO  compiling backend (14 scala sources)
+2025.07.20 15:46:16 WARN  Invalid text document uri received from build server: file:///Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/routes/tempCodeRunnerFile.scala
+2025.07.20 15:46:16 INFO  time: compiled backend in 0.21s
+2025.07.20 15:48:06 INFO  compiling backend (14 scala sources)
+2025.07.20 15:48:06 INFO  time: compiled backend in 0.17s
+2025.07.20 15:50:12 INFO  compiling backend (14 scala sources)
+2025.07.20 15:50:12 INFO  time: compiled backend in 0.18s
+2025.07.20 15:50:44 INFO  compiling backend (15 scala sources)
+2025.07.20 15:50:44 INFO  time: compiled backend in 0.24s
+2025.07.20 15:50:56 INFO  compiling backend (16 scala sources)
+2025.07.20 15:50:56 INFO  time: compiled backend in 0.24s
+2025.07.20 15:50:56 INFO  compiling backend (16 scala sources)
+2025.07.20 15:50:56 INFO  time: compiled backend in 40ms
+2025.07.20 15:51:07 INFO  compiling backend (16 scala sources)
+2025.07.20 15:51:07 INFO  time: compiled backend in 0.19s
+2025.07.20 16:15:11 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:15:11 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:15:11 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 16:15:11 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:15:11 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:17:59 INFO  Shutting down server
+2025.07.20 16:17:59 INFO  shutting down Metals
+2025.07.20 16:17:59 INFO  Shut down connection with build server.
+2025.07.20 16:17:59 INFO  Exiting server
+2025.07.20 16:35:30 INFO  Started: Metals version 1.6.0 in folders '/Users/dhruvgupta/Desktop/SecureLine1.0' for client Visual Studio Code 1.102.1.
+2025.07.20 16:35:31 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 3.3.6
+2025.07.20 16:35:31 INFO  Attempting to connect to the build server...
+2025.07.20 16:35:31 INFO  Found a Bloop server running
+2025.07.20 16:35:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/dhruvgupta/Desktop/SecureLine1.0/.metals/bsp.trace.json or /Users/dhruvgupta/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.20 16:35:31 INFO  time: Connected to build server in 0.56s
+2025.07.20 16:35:31 INFO  Connected to Build server: Bloop v2.0.10
+2025.07.20 16:35:32 INFO  time: Imported build in 0.12s
+2025.07.20 16:35:32 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:35:35 INFO  time: indexed workspace in 3.28s
+2025.07.20 16:35:35 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 16:35:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:35:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:35:35 WARN  no build target for: /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt
+2025.07.20 16:35:35 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:35:37 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:35:49 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:36:04 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.07.20 16:36:19 INFO  no build target found for /Users/dhruvgupta/Desktop/SecureLine1.0/backend/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16

@@ -1,0 +1,7 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/model/api/JsonFormats.scala:6:16: Implicit definition should have explicit type (inferred spray.json.RootJsonFormat[com.secureline.model.api.RegisterUserRequest]) [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m  implicit val registerUserRequestFormat = jsonFormat1(RegisterUserRequest)[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/dhruvgupta/Desktop/SecureLine1.0/backend/src/main/scala/com/secureline/model/api/JsonFormats.scala:7:16: Implicit definition should have explicit type (inferred spray.json.RootJsonFormat[com.secureline.model.api.RegisterUserResponse]) [quickfixable][0m
+[0m[[0m[33mwarn[0m] [0m[0m  implicit val registerUserResponseFormat = jsonFormat2(RegisterUserResponse)[0m
+[0m[[0m[33mwarn[0m] [0m[0m               ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
